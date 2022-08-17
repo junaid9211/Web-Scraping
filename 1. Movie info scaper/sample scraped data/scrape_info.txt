@@ -1,0 +1,12 @@
+10 page(s) from https://yts.mx/browse-movies/0/all/all/0/downloads/0/all were scraped
+    
+Options Choosen
+    Genre: All
+    Language: All
+    Order by: Downloads
+    Covers scrapped?: y
+    
+Script ran on 2022-08-17 at 11:25:20
+
+Script created by Muhammad Junaid
+    
